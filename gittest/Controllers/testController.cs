@@ -13,5 +13,14 @@ namespace gittest.Controllers
         {
             return View();
         }
+        public ActionResult MVCCoder()
+        {
+            return View();
+        }
+
+        public ActionResult Hello()
+        {
+            return View();
+        }
     }
 }
