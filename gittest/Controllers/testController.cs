@@ -18,13 +18,7 @@ namespace gittest.Controllers
             return View();
         }
 
-        public ActionResult Hello()
-        {
-            return View();
-        }
-        public ActionResult Hello1()
-        {
-            return View();
-        }
+     
+       
     }
 }
